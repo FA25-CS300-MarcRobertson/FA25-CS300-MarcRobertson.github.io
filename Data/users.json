@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 29,
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "name": "Brian Smith",
+    "email": "brian.smith@example.com",
+    "age": 34,
+    "country": "Canada"
+  },
+  {
+    "id": 3,
+    "name": "Chen Wei",
+    "email": "chen.wei@example.com",
+    "age": 41,
+    "country": "China"
+  }
+]
