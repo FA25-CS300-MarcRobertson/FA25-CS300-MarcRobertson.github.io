@@ -1,23 +1,107 @@
 [
   {
     "product_id": "P1001",
-    "name": "Laptop",
-    "price": 799.99,
+    "name": "Wireless Mouse",
+    "price": 25.49,
     "in_stock": true,
-    "category": "Electronics"
+    "category": "Accessories"
   },
   {
     "product_id": "P1002",
-    "name": "Desk Chair",
-    "price": 149.50,
+    "name": "Desk Lamp",
+    "price": 59.99,
     "in_stock": false,
     "category": "Furniture"
   },
   {
     "product_id": "P1003",
-    "name": "Wireless Mouse",
-    "price": 29.99,
+    "name": "Smartphone",
+    "price": 699.95,
+    "in_stock": true,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1004",
+    "name": "Gaming Console",
+    "price": 499.00,
+    "in_stock": true,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1005",
+    "name": "Coffee Maker",
+    "price": 89.50,
+    "in_stock": false,
+    "category": "Appliances"
+  },
+  {
+    "product_id": "P1006",
+    "name": "Monitor",
+    "price": 199.99,
+    "in_stock": true,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1007",
+    "name": "Camera",
+    "price": 349.90,
+    "in_stock": false,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1008",
+    "name": "Shoes",
+    "price": 75.25,
+    "in_stock": true,
+    "category": "Clothing"
+  },
+  {
+    "product_id": "P1009",
+    "name": "Tablet",
+    "price": 259.00,
+    "in_stock": true,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1010",
+    "name": "Bicycle",
+    "price": 599.95,
+    "in_stock": false,
+    "category": "Sports"
+  },
+  {
+    "product_id": "P1011",
+    "name": "Backpack",
+    "price": 45.00,
+    "in_stock": true,
+    "category": "Outdoor"
+  },
+  {
+    "product_id": "P1012",
+    "name": "External Hard Drive",
+    "price": 129.99,
     "in_stock": true,
     "category": "Accessories"
+  },
+  {
+    "product_id": "P1013",
+    "name": "Printer",
+    "price": 179.49,
+    "in_stock": false,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1014",
+    "name": "Smartwatch",
+    "price": 229.00,
+    "in_stock": true,
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P1015",
+    "name": "T-shirt",
+    "price": 19.99,
+    "in_stock": true,
+    "category": "Clothing"
   }
 ]
