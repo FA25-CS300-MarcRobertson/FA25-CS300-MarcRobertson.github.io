@@ -1,5 +1,6 @@
 // ========================================
-// API Integration Demo for Students
+// Name: Marc Robertson
+// Course: FA25-CS300
 // Fetching Data from External APIs
 // ========================================
 
